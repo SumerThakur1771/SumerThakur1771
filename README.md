@@ -57,8 +57,7 @@ I'm a full-stack developer passionate about building high-performance, scalable 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SumerThakur1771&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumerThakur1771&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumerThakur1771&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=bruno-api-tests"/>
 </div>
 
 <div align="center">
@@ -96,7 +95,7 @@ UI/UX design for AI-powered student networking app
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumerthakur-658808288)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumer-thakur-658808288/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6C37?style=flat&logo=google-chrome&logoColor=white)](https://sumer-thakur-portfolio.lovable.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thakur.sum@northeastern.edu)
 
