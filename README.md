@@ -57,7 +57,7 @@ I'm a full-stack developer passionate about building high-performance, scalable 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumerThakur1771&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=bru"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=SumerThakur1771&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
