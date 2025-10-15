@@ -106,11 +106,11 @@ UI/UX design for AI-powered student networking app
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SumerThakur1771&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
-<div align="center">
+<div align="center"> -->
   
 **Thanks for stopping by! Let's build something awesome together.** 🚀
 
