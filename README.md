@@ -100,7 +100,7 @@ UI/UX design for AI-powered student networking app
 ## 💡 Fun Facts
 
 - 🎓 MS in Information Systems @ Northeastern University (Dec 2026)
-- 🏏 Passionate Cricket fan - Go Thunder!
+- 🏏 Passionate Cricket fan - India | Punjab Kings!
 - 🌍 Love traveling and exploring new places
 - 📊 Data-driven decision maker who loves optimizing systems
 
