@@ -1,117 +1,90 @@
-# Hi there, I'm Sumer Thakur 👋
+# Hey, I'm Sumer 👋
 
-### Full-Stack Developer | MS in Information Systems @ Northeastern University
+I'm a full-stack and mobile engineer based in Boston. I just wrapped up a 6-month co-op at a venture-backed fintech startup where I owned features end-to-end, shipped real code to real users, and learned what it actually means to build a product people rely on.
 
-I'm a full-stack developer passionate about building high-performance, scalable web applications. Currently pursuing my Master's at Northeastern and actively seeking **Spring 2026 co-op opportunities** in web development.
+I care about the intersection of engineering, data, and product. I like building things that are both technically solid and genuinely useful. If a feature doesn't move a metric or solve a real problem, I want to know why we're building it.
 
----
-
-## 🚀 What I'm Working On
-
-- **StayScape**: Full-stack accommodation platform with Node.js/Express, MongoDB, and automated CI/CD
-- **Portfolio Website**: High-performance React/TypeScript site with 95+ Lighthouse score
-- **Exploring**: Cloud infrastructure, database optimization, and making complex systems accessible
+Currently looking for Full-Stack, Frontend, Mobile, or Product Engineer roles starting January 2027.
 
 ---
 
-## 💼 Experience Highlights
+## What I've Shipped
 
-**Digital Operations Intern @ Ralson India Ltd** *(Jan 2024 - Jun 2024)*
-- Optimized vendor platform for 200+ suppliers, reducing page load times by 40%
-- Automated data workflows with SQL and Excel, eliminating 15% of errors
-- Refactored queries handling 50K+ daily transactions
+**[IronMind AI](https://iron-mind-psi.vercel.app)** is a RAG-based AI fitness coach I built from scratch. It answers questions using only a curated knowledge base built from 6 years of real training experience. Zero hallucination by design. If it doesn't know something, it says so instead of making something up.
+
+Stack: Next.js, TypeScript, PostgreSQL with pgvector, Redis, Docker, AWS, Vercel, GitHub Actions, Gemini API, OpenRouter.
+
+**Velzee** (Jan 2026 to Jun 2026). 6 months as Product Builder Co-op at a venture-backed fintech startup. Some of what I built and shipped:
+
+- AI-driven financial insights system that went through 3 full generations before it clicked
+- Life Event Planning feature with a month-by-month financial projection engine, built from zero
+- Full iOS monetization stack across Stripe and Apple IAP including trials, restores, and paywalls
+- Smart Categories auto-categorization engine backed by PL/pgSQL triggers
+- Behavioral analytics system across 30+ screens, 73 events, 6 Amplitude dashboards, and a finding that paying users were 4x more engaged than free users
+- A mobile-to-Loops behavioral pipeline for email targeting of high-intent non-paying users
+- 144 PRs merged and 1,100+ commits across two repos
+
+**[StayScape](https://github.com/SumerThakur1771/StayScape)** is a full-stack accommodation platform. Node.js, Express, MongoDB, Mapbox API, GitHub Actions. 7 REST endpoints, 25+ listings, 3-layer data validation.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Languages**  
+**Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Frontend**  
+**Mobile and Frontend**
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Backend**  
+**Backend and Databases**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-**DevOps & Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+**Integrations and Tools**
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![Amplitude](https://img.shields.io/badge/-Amplitude-000000?style=flat&logo=amplitude&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumerThakur1771&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=bru"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumerThakur1771&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## A Bit More About Me
 
-### [StayScape](https://github.com/SumerThakur1771/StayScape) | [Live Demo](https://stayscape-v7dj.onrender.com/listings)
-Full-stack accommodation platform with authentication and real-time data management
-- **Tech**: Node.js, Express.js, MongoDB, Passport.js, Mapbox API
-- **Impact**: Reduced errors by 35%, enabled 50+ deployments via CI/CD
+I have been lifting consistently for 6 years. That is not just a fun fact. It is why I built IronMind, why I understand what good fitness advice actually looks like, and why I care about building products that give people accurate information instead of confident nonsense.
 
-### [Personal Portfolio](https://github.com/SumerThakur1771/sumer-thakur-portfolio) | [Live Demo](https://sumer-thakur-portfolio.lovable.app/)
-High-performance portfolio website showcasing projects and skills
-- **Tech**: React, TypeScript, Tailwind CSS, shadcn-ui
-- **Performance**: Sub-2s load times, 95+ Lighthouse score
+I give myself fresh fade cuts. Have for a while now. Turns out cutting hair and debugging code require the same thing: patience and the ability to notice small things that are off.
 
-### [EchoMates](https://www.figma.com/proto/ZcOYtt6E7OLUVqNIPX41us/EchoMates_Final-Exam?node-id=516-1965&t=4WynPMKZdifA8X3h-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=516%3A1960&show-proto-sidebar=1)
-UI/UX design for AI-powered student networking app
-- **Tech**: Figma, User Research, Design Systems
-- **Impact**: 17% improvement in onboarding completion
+Lewis Hamilton fan, which means I am unfortunately a Ferrari supporter now. Hoping their race strategy improves before my patience runs out. F1 is basically applied data science with better marketing.
+
+Football and cricket fan. Ronaldo and Kohli are my guys. Two people who made everyone around them look slow. PBKS supporter because apparently I enjoy suffering.
+
+I grew up in Ludhiana, Punjab. Moved to Boston for my Master's and have been figuring it out ever since.
 
 ---
 
-## 🌱 Currently Learning
-
-- Program Structure & Algorithms
-- Prompt Engineering & AI
-- Microservices architecture patterns
-
----
-
-## 📫 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumer-thakur-658808288/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6C37?style=flat&logo=google-chrome&logoColor=white)](https://sumer-thakur-portfolio.lovable.app/)
+[![IronMind AI](https://img.shields.io/badge/-IronMind_AI-000000?style=flat&logo=vercel&logoColor=white)](https://iron-mind-psi.vercel.app)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thakur.sum@northeastern.edu)
-
----
-
-## 💡 Fun Facts
-
-- 🎓 MS in Information Systems @ Northeastern University (Dec 2026)
-- 🏏 Passionate Cricket fan - India | Punjab Kings!
-- 🌍 Love traveling and exploring new places
-- 📊 Data-driven decision maker who loves optimizing systems
-
----
-
-<!-- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SumerThakur1771&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
-<div align="center"> -->
-  
-**Thanks for stopping by! Let's build something awesome together.** 🚀
-
-</div>
