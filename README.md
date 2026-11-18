@@ -19,11 +19,11 @@ I'm a full-stack engineer in Boston, finishing my **MS in Information Systems at
 
 I build fast with AI, but I don't ship on vibes. Every claim below has a test, a measurement or a replay behind it.
 
-> 📍 Boston · Open to relocation · Looking for full-stack, frontend, mobile or product engineering roles starting **January 2027**
+> Boston · Open to relocation · Looking for full-stack, frontend, mobile or product engineering roles starting **January 2027**
 
 <br/>
 
-## ⚡ At a Glance
+## At a Glance
 
 <table>
   <tr>
@@ -36,13 +36,13 @@ I build fast with AI, but I don't ship on vibes. Every claim below has a test, a
 
 <br/>
 
-## 🛠️ Featured Builds
+## Featured Builds
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🃏 River Room
+### River Room
 **Real-time multiplayer poker for my friends' home game**
 
 The server deals every hand, and each player only ever receives their own cards. The AI players are personas of my actual friends.
@@ -54,12 +54,12 @@ The server deals every hand, and each player only ever receives their own cards.
 
 `TypeScript` `React` `Node.js` `Socket.IO` `PostgreSQL` `Prisma` `Vitest` `Playwright`
 
-[**Live app →**](https://sumer-riverroom.vercel.app) · [**Code →**](https://github.com/SumerThakur1771/RiverRoom)
+[**Live app**](https://sumer-riverroom.vercel.app) · [**Code**](https://github.com/SumerThakur1771/RiverRoom)
 
 </td>
     <td width="50%" valign="top">
 
-### 🏋️ IronMind AI
+### IronMind AI
 **An AI fitness coach that refuses to make things up**
 
 It answers only from 50 training principles I wrote from years of lifting. If nothing in its knowledge base matches, it says so instead of guessing.
@@ -71,7 +71,7 @@ It answers only from 50 training principles I wrote from years of lifting. If no
 
 `Next.js` `TypeScript` `PostgreSQL` `pgvector` `Gemini API` `OpenRouter` `Vitest`
 
-[**Live app →**](https://iron-mind-psi.vercel.app) · [**Code →**](https://github.com/SumerThakur1771/IronMind)
+[**Live app**](https://iron-mind-psi.vercel.app) · [**Code**](https://github.com/SumerThakur1771/IronMind)
 
 </td>
   </tr>
@@ -79,21 +79,21 @@ It answers only from 50 training principles I wrote from years of lifting. If no
 
 <br/>
 
-## 💼 Experience
+## Experience
 
 **Velzee** · Software Engineer Co-op · *Jan to Jun 2026*
 AI personal-finance iOS app on the App Store · React Native, Expo, TypeScript, Next.js, Supabase, PostgreSQL, Plaid
 
-- 🔍 Traced Plaid sync bugs and restored **100+ mislabeled transactions**, including a $71K deposit counted as spending, with guarded backfills
-- 💳 Integrated **Apple In-App Purchase** subscriptions end to end, from expo-iap to App Store webhooks and Postgres entitlements, so retries never duplicate a subscription
-- 🤖 Rebuilt the **AI insights tab** in React Native (29 components), with guards that keep model-leaked merchant names off screen
-- 🔔 Shipped an in-app **Notification Center** from Next.js routes and Postgres to the React Native inbox, with **200+ Vitest tests**
-- ⚡ Cut main-thread load on an animated dial by **over 80%** with a Skia shader driven by Reanimated, measured in Time Profiler
-- 📊 Instrumented **85 Amplitude events** and found paying users were **4x more engaged** with core features than free users
+- Traced Plaid sync bugs and restored **100+ mislabeled transactions**, including a $71K deposit counted as spending, with guarded backfills
+- Integrated **Apple In-App Purchase** subscriptions end to end, from expo-iap to App Store webhooks and Postgres entitlements, so retries never duplicate a subscription
+- Rebuilt the **AI insights tab** in React Native (29 components), with guards that keep model-leaked merchant names off screen
+- Shipped an in-app **Notification Center** from Next.js routes and Postgres to the React Native inbox, with **200+ Vitest tests**
+- Cut main-thread load on an animated dial by **over 80%** with a Skia shader driven by Reanimated, measured in Time Profiler
+- Instrumented **85 Amplitude events** and found paying users were **4x more engaged** with core features than free users
 
 <br/>
 
-## 🧭 How I Build
+## How I Build
 
 | | |
 |---|---|
@@ -103,7 +103,7 @@ AI personal-finance iOS app on the App Store · React Native, Expo, TypeScript, 
 
 <br/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,java,react,nextjs,tailwind,vite,nodejs,express,postgres,prisma,supabase,mongodb,git,githubactions,vercel,figma&perline=9" />
@@ -126,14 +126,14 @@ AI personal-finance iOS app on the App Store · React Native, Expo, TypeScript, 
 
 <br/>
 
-## 🎯 Off the Keyboard
+## Off the Keyboard
 
-- 🏋️ **Lifting for 6 years.** It's why IronMind exists, and why I care about tools that give people accurate information instead of confident nonsense.
-- ✂️ **I cut my own fades.** Cutting hair and debugging need the same thing: patience and noticing the small thing that's off.
-- 🃏 **Poker nights with the boys.** I wanted our home game in my pocket, so I built River Room.
-- 🏎️ **Lewis Hamilton fan,** which makes me a Ferrari supporter now. F1 is applied data science with better marketing.
-- ⚽🏏 **Ronaldo and Kohli** are my guys. PBKS supporter, because apparently I enjoy suffering.
-- 📍 Grew up in **Ludhiana, Punjab.** Moved to Boston for my Master's.
+- **Lifting for 6 years.** It's why IronMind exists, and why I care about tools that give people accurate information instead of confident nonsense.
+- **I cut my own fades.** Cutting hair and debugging need the same thing: patience and noticing the small thing that's off.
+- **Poker nights with the boys.** I wanted our home game in my pocket, so I built River Room.
+- **Lewis Hamilton fan,** which makes me a Ferrari supporter now. F1 is applied data science with better marketing.
+- **Ronaldo and Kohli** are my guys. PBKS supporter, because apparently I enjoy suffering.
+- Grew up in **Ludhiana, Punjab.** Moved to Boston for my Master's.
 
 <div align="center">
 
